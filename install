@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp -rf BlackCoderCrush /home/$USER/.local/share/plasma/look-and-feel
+echo "Sukses menginstall..."
